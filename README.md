@@ -11,4 +11,4 @@ Acesso ao sistema de gestão da imobiliária, verificar os clientes que pagaram 
 
 Aqui no github está o código utilizado sem maiores explicações, mas totalmente funcional.
 
-**Para acessar o racional com o passo a passo do algoritmo, acessar https://bit.ly/3ivz8rd
+**Para acessar o racional com o passo a passo do algoritmo, acessar** https://bit.ly/3ivz8rd
