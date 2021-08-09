@@ -8,6 +8,7 @@ Acesso ao sistema de gestão da imobiliária, verificar os clientes que pagaram 
 4. Tratamento de Dados
 5. Automação de Email
 6. Copiar e colar arquivo entre pastas
+
 *(libs: selenium, pandas, datetime, time, pathlib, os, shutil, yagmail)*
 
 Aqui no github está o código utilizado sem maiores explicações, mas totalmente funcional.
